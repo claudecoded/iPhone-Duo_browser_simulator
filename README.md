@@ -1,3 +1,5 @@
+<img width="1280" height="274" alt="image" src="https://github.com/user-attachments/assets/4c446ca6-a54e-4a08-8795-bba1d7d9cb07" />
+
 # iPhone Duo - Advanced Interactive Simulator 
 
 An interactive, responsive, and fully customizable web-based clone of the **iPhone Duo**. This simulator features a simulated 3D mechanical folding hinge, dynamic hardware coloring, wallpaper customization, and independent dual-screen multitasking powered by live `iframe` application sandboxing.
